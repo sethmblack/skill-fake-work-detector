@@ -3,8 +3,9 @@ name: fake-work-detector
 description: Distinguish between activities that feel productive (motion) and activities that move metrics (progress), identifying organizational dysfunction and recommending focus areas.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3982
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
 - fake-work-detector
